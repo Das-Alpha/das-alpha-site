@@ -1,11 +1,11 @@
 ---
 title: Das Paketmobbing
-date: 2025-11-05 10:00:00
+date: 2025-11-27 10:00:00
 order: 2
 categories: [Systemschädling]
 tags: [Mobbing, DHL]
 pin: false
-description: Deine Alte - "Geh' lieber auf Nummer Sicher" - Eine Perle oder erbärmlicher als ein abgefuckter KinderCrackStricher!
+description: Die DHL wurde angeblich von oben angewiesen mein Paket zurückzubehalten, weil es "beschädigt" wurde!
 image: /assets/media/splash/die-oster-schlammschlacht.jpg
 ---
 
