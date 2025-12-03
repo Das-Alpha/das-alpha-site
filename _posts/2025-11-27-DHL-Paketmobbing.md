@@ -33,5 +33,5 @@ Mit der Folge, dass die Sendung wieder zur Zustellbasis zurückgesendet wurde.
 
 ### Der 2. Anruf bei DHL - Mobbing reloaded
 
-### XIAOMI ist nicht amused - DHL Pakete nicht beschädigen
+### XIAOMI ist nicht amused - DHL soll Pakete nicht beschädigen
 
