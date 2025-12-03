@@ -1,5 +1,5 @@
 ---
-title: Paketmobbing bei der DHL
+title: DHL Paketmobbing
 date: 2025-11-27 10:00:00
 order: 2
 categories: [Systemschädling]
