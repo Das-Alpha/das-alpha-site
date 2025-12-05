@@ -130,4 +130,8 @@ Alles daran ist einfach nur absurd - ich kann es einfach nur als eine mißglück
 
 ## Fazit
 
-Was ist möglich?!
+Wie und warum ist das möglich?!
+
+Eigentlich ganz einfach, ich stehe wohl auf der Liste von ein paar Personen und so wird missbräuchlich versucht, was zu versuchen geht. Das eigentliche Ziel ist, dass ich das Paket nicht erhalte, was in diesem Fall nicht funktioniert hat. Es geht darum, zu zeigen, wer der augenscheinlich Stärkere ist und auch das ist schief gegangen.
+
+Es ist ein vollkommen primitives Spiel, dass selbst für Kindergartenkinder eigentlich peinlich sein sollte, aber...
