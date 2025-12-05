@@ -56,6 +56,17 @@ Der Auffassung von XIAOMI ist nichts hinzuzufügen. Es ist eine Mischung aus chi
 
 ### Die Lösung I - Whatsapp
 
+Gut, ich dachte mir, wieso nicht Whatsapp mal testen, da es Gerüchte gab, dass bei Whatsapp KI eingesetzt wird. Aus diesem Grund schrieb ich eine Whatsapp an DHL Express Germany.
+
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
+> Ein Wort der Warnung - jemand ganz oben ist ganz übel aufgeflogen - das wird noch echt lustig!
+{: .prompt-danger }
+<!-- markdownlint-restore -->
+
+Was jetzt kommt wird schlicht so peinlich, aber man kann nichts machen. Gut, so fängt es an:
+
+
 
 Umlieferug
 
