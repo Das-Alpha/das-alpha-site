@@ -11,4 +11,8 @@ image: /assets/media/splash/systemschaedling.jpg
 
 ## Vorwort
 
-Bei den feinsten Oster-Lämmern kann niemand nein sagen.
+Was ist das schlimmste mögliche Übel?! Es ist mit Sicherheit ein Systemschädling, denn dieser schädigt jedes mögliche System - ein Volksschädling ist dagegen harmlos, denn dieser schädigt nur das (eigene) Volk!
+
+## Der Systemschädling - Eine Erklärung
+
+Ist doch wohl selbsterklärend!
