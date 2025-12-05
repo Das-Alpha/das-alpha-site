@@ -33,7 +33,7 @@ Jeder Fall ist anders - gewiss, aber man muss sagen, in Deutschland werden einem
 
 ***"Eine Perle oder billiger als der letzte Kindercrackstricher"*** ist natürlich etwas provokant formuliert. Eine provokante und zudem nicht ganz einfach zu beantwortende Frage. Was ist überhaupt ein Kindercrackstricher und ist das ein [Crack](https://de.wikipedia.org/wiki/Crack_(Droge)){:target="_blank"} rauchender Kinderstricher oder ein Stricher, der Kindercrack konsumiert. Bei der letzten Fragestellung - Kindercrack - haben wir kapituliert. WIr lagen einfach nur noch lachend auf dem Boden :grinning_squinting_face:.
 
-Dieser Abschnitt - er hat ebenfalls einen eigenen, erweiterten Eintrag - behandelt die ***"Wegrationalisierung"*** des möglicherweise parteiischen Urologen bei einem Spermiogramm. Sie müssen sich das so vorstellen, eben die bereits genannte Konstellation, die Frau hat ein Kind von einem Sozialhilfeempfänger und es dem reichen Manager untergeschoben. Es ist nicht schwer sich vorzustellen, dass einige Personen sagen: *"Hm, dem Manager tut es nicht weg und für das Kind und die Frau wäre es förderlich, wenn beide mehr Geld hätten bzw. zumindest nicht einen Teilbetrag zurückzahlen müssten."* In diesem Fall ist es natürlich leicht vorstellbar, dass Druck auf den Urologen oder die Urologin ausgeübt wird, dass ggf. die Zeugungsfähigkeit positiver als tatsächlich beschieden wird und es so zu keinem Anfangsverdacht für ein [genetisches Vaterschaftsgutachten](https://de.wikipedia.org/wiki/Abstammungsgutachten_(DNA-Analyse)){:target="_blank"} kommt.
+Dieser Abschnitt - er hat ebenfalls einen eigenen, erweiterten Eintrag - behandelt die ***"Wegrationalisierung"*** des möglicherweise parteiischen Urologen bei einem Spermiogramm. Sie müssen sich das so vorstellen, eben die bereits genannte Konstellation, die Frau hat ein Kind von einem Sozialhilfeempfänger und es dem reichen Manager untergeschoben. Es ist nicht schwer sich vorzustellen, dass einige Personen sagen: *"Hm, dem Manager tut es nicht weh und für das Kind und die Frau wäre es förderlich, wenn beide mehr Geld hätten bzw. zumindest nicht einen Teilbetrag zurückzahlen müssten."* In diesem Fall ist es natürlich leicht vorstellbar, dass Druck auf den Urologen oder die Urologin ausgeübt wird, dass ggf. die Zeugungsfähigkeit positiver als tatsächlich beschieden wird und es so zu keinem Anfangsverdacht für ein [genetisches Vaterschaftsgutachten](https://de.wikipedia.org/wiki/Abstammungsgutachten_(DNA-Analyse)){:target="_blank"} kommt.
 
 ### Die (erfolgreiche) Hurenbockjagd
 
@@ -41,7 +41,7 @@ als logische Konsequenz. Daher ist die Voraussetzung für einen Regressanspruch 
 
 Die gesamte Jagd dauerte in der aktiven Phase fast 1 Jahr an und nach der Abschaltung der Website wird die TLD vom Hoster selbst als Weiterleitung auf verschiedene Seiten genutzt, da immer noch etwas Traffic.
 
-Die erfolgreiche Hurenbockjagd hat übrigens ihren eigenen Eintrag, der durchaus lesenswert ist. Hier ist ein Bild von den kleinen Nachwirkungen.
+Die erfolgreiche Hurenbockjagd hat übrigens ihren eigenen Eintrag, der durchaus lesenswert ist. Es gibt sogar ein Bild von den kleinen Nachwirkungen.
 
 ### Das glorreiche Finale - die Blockchain
 
