@@ -1,6 +1,6 @@
 ---
 title: Das tapfere Schneiderlein
-date: 2025-11-05 10:00:00
+date: 2018-05-17 10:00:00
 order: 2
 categories: [Spermien]
 tags: [AllesKannNichtsMuss, Golddiggerinnen]
@@ -11,4 +11,8 @@ image: /assets/media/splash/das-tapfere-schneiderlein.jpg
 
 ## Vorwort
 
-Bei den feinsten Oster-Lämmern kann niemand nein sagen.
+Manche Tage fangen gut an, besonders dieser! Ich will nichts beschönigen, es ging 1a los. Da war von Anfang an nichts mehr zu retten. Die Eskalation war vorprogrammiert und es endete in der totalen Eskalation.
+
+## Vorglühen bei Nutti-Mutti
+
+Ähm ja, doch in Tallinn steppt der Bär und der Spaß war schon vorgebucht!
