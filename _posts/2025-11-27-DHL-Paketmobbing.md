@@ -76,7 +76,27 @@ Sie müssen sich das vorstellen - eine KI, die einfach macht, was sie soll und o
 
 Tja, so einfach kann und sollte es gehen - normalerweise!
 
-Umlieferug
+Aber was ist heutzutage schon normal, daher ging es weiter und es wurde spannend:
+
+![Desktop View](/assets/media/posts/20251127/dhl-whatsapp-02.jpg){: width="400" height="696" .w-50 .left}
+
+Aha, es wurde mir per Whatsapp eine Umlieferung angeboten!
+
+Nett und ich sollte nur einem Link folgen.
+
+Das tat ich natürlich und ich wurde weiter überrascht.
+
+Beachten Sie bitte, dass gewisse personalisierte Links unkenntlich gemacht wurden.
+
+![Desktop View](){: .w-100 .normal}
+Ich folgte dem Link, erhielt einen Code von meiner Telefonnummer, die ich bei XIAOMI hinterlegt hatte und oha, ich konnte das Paket neu ausliefern lassen:
+
+![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung.jpg){: width="400" height="580" .w-50 .left}
+
+So weit, so gut, doch ich wurde dann nochmals ***"overruled"***. 
+
+![Desktop View](){: .w-100 .normal}
+Meine Auslieferung an die Filiale wurde an die Packstation 
 
 ### Die Lösung II - die Mobbingursache
 
