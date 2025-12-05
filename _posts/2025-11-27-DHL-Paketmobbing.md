@@ -68,6 +68,14 @@ Was jetzt kommt wird schlicht so peinlich, aber man kann nichts machen. Gut, so 
 
 ![Desktop View](/assets/media/posts/20251127/dhl-whatsapp-01.jpg){: width="400" height="394" .w-50 .left}
 
+Die KI war sehr zurückhaltend, aber sehr effektiv oder sollen wir lieber sagen effizient. Also die KI konnte überhaupt nichts mit den willkürlichen Ansagen von oben anfangen und operierte einfach strikt nach Schema F. So, wie man es eigentlich von DHL und einer KI erwartet.
+
+Es war - für mich, nach der Warteschleife und den Frauen, die sich an angeblichen AGBs - die man alternativ nicht auffinden konnte - oriententierten, ein wahrer Segen.
+
+Sie müssen sich das vorstellen - eine KI, die einfach macht, was sie soll und ohne Mucken. Also das kommt sehr nahe an die ursprüngliche Version, die DHL, die einfach das Paket an die Packstation ausliefern soll.
+
+Tja, so einfach kann und sollte es gehen - normalerweise!
+
 Umlieferug
 
 ### Die Lösung II - die Mobbingursache
