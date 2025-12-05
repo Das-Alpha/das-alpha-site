@@ -98,7 +98,7 @@ So weit, so gut, doch ich wurde dann nochmals ***"overruled"***.
 ![Desktop View](){: .w-100 .normal}
 Meine Auslieferung an die Filiale wurde an die Packstation 102.
 
-Exakt, die ***Sendung liegt in der Packstation 102***, wie es im Prinzip ursprünglich geplant war und ohne das Zutun von XIAOMI, denn ursprünglich war die Packstation 102 geplant und danach die Filiale, doch darauf wurde mysteriöserweise die Packstation 102:
+Exakt, die ***Sendung liegt in der Packstation 102***, wie es im Prinzip ursprünglich geplant war und ohne das Zutun von XIAOMI, denn ursprünglich war die Packstation 102 geplant und danach die Filiale, doch daraus wurde mysteriöserweise die Packstation 102:
 
 ![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung-packstation-102.jpg){: width="400" height="530" .w-50 .left}
 Ja, die Sendung wurde einfach per Whatsapp über oben hinweg an die Filiale dirigiert und oben hat dies überhaupt nicht gefallen. Mutmaßlich dirigierte oben sie daher wieder an die Packstation 102 - gut, nicht an die ursprüngliche Packstation 103.
