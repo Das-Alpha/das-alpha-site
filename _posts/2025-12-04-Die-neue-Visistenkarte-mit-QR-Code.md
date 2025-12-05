@@ -6,7 +6,7 @@ categories: [Systemschädling]
 tags: [Visitenkarte, QR-Code]
 pin: false
 description: Wieso jedem den Perso mitgeben, daher entstand die Idee einer Visitenkarte mit QR-Code! Kommen Sie bitte mit!
-image: /assets/media/splash/kommen-sie-bitte-unauffaellig-mit.png
+image: /assets/media/splash/kommen-sie-bitte-unauffaellig-mit.jpg
 ---
 
 ## Vorwort
