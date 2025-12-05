@@ -91,12 +91,27 @@ Beachten Sie bitte, dass gewisse personalisierte Links unkenntlich gemacht wurde
 ![Desktop View](){: .w-100 .normal}
 Ich folgte dem Link, erhielt einen Code von meiner Telefonnummer, die ich bei XIAOMI hinterlegt hatte und oha, ich konnte das Paket neu ausliefern lassen:
 
-![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung.jpg){: width="400" height="580" .w-50 .left}
+![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung-filiale.jpg){: width="400" height="580" .w-50 .left}
 
 So weit, so gut, doch ich wurde dann nochmals ***"overruled"***. 
 
 ![Desktop View](){: .w-100 .normal}
-Meine Auslieferung an die Filiale wurde an die Packstation 
+Meine Auslieferung an die Filiale wurde an die Packstation 102.
+
+Exakt, die ***Sendung liegt in der Packstation 102***, wie es im Prinzip ursprünglich geplant war und ohne das Zutun von XIAOMI, denn ursprünglich war die Packstation 102 geplant und danach die Filiale, doch darauf wurde mysteriöserweise die Packstation 102:
+
+![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung-packstation-102.jpg){: width="400" height="530" .w-50 .left}
+Ja, die Sendung wurde einfach per Whatsapp über oben hinweg an die Filiale dirigiert und oben hat dies überhaupt nicht gefallen. Mutmaßlich dirigierte oben sie daher wieder an die Packstation 102 - gut, nicht an die ursprüngliche Packstation 103.
+
+Oben will einfach immer klar machen, dass oben alles im Griff hat, egal wie crazy das ist.
+
+Es wurde einfach sehr viel Hintergrundarbeit geleistet und im nächsten Abschnitt wird auch klar werden weshalb.
+
+Ich kann aber schon so viel sagen, es ist einfach nur das, was wir als einen [Schildbürgerstreich](https://de.wikipedia.org/wiki/Schildb%C3%BCrger){:target="_blank"} bezeichnen.
+
+Ein normaler Mensch würde an sich vermutlich zweifeln, aber bei uns in Schwaben ist das total normal. Betrachten Sie es bitte aus dieser Warte, bei uns ist auch [Stuttgart 21](https://de.wikipedia.org/wiki/Stuttgart_21){:target="_blank"} im Jahre 2025 nur eine kleine Nebensächlichkeit.
+![Desktop View](){: .w-100 .normal}
+
 
 ### Die Lösung II - die Mobbingursache
 
