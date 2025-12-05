@@ -135,3 +135,7 @@ Wie und warum ist das möglich?!
 Eigentlich ganz einfach, ich stehe wohl auf der Liste von ein paar Personen und so wird missbräuchlich versucht, was zu versuchen geht. Das eigentliche Ziel ist, dass ich das Paket nicht erhalte, was in diesem Fall nicht funktioniert hat. Es geht darum, zu zeigen, wer der augenscheinlich Stärkere ist und auch das ist schief gegangen.
 
 Es ist ein vollkommen primitives Spiel, dass selbst für Kindergartenkinder eigentlich peinlich sein sollte, aber...
+
+Und in diesem Fall ist die andere Seite eiskalt erwischt worden, das Tape von der DHL spricht einfach Bände und das der Inhalt nicht geöffnet wurde, zeigt einwandfrei die Intention. Was soll man bei so einer Aktion auf dem Level eines "4jährigen Kindergartenkindes" noch sagen...
+
+Ich werde vermutlich XIAOMI beibringen müssen, dass man die AI noch weiter anpasst, auf ein Maß, dass man bislang noch nicht für möglich hielt!
