@@ -5,7 +5,7 @@ order: 2
 categories: [Systemschädling]
 tags: [Visitenkarte, QR-Code]
 pin: false
-description: Ja, man kann nicht jedem seinen Perso mitgeben, daher entstand die Idee einer Visitenkarte mit QR-Code!
+description: Wieso jedem den Perso mitgeben, daher entstand die Idee einer Visitenkarte mit QR-Code! Kommen Sie bitte mit!
 image: /assets/media/splash/kommen-sie-bitte-unauffaellig-mit.png
 ---
 
