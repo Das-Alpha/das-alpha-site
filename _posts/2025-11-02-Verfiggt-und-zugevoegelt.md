@@ -5,7 +5,7 @@ order: 2
 categories: [Spermien]
 tags: [AllesOhneAberMit, Golddiggerinnen]
 pin: false
-description: Deine Alte - Geh' lieber auf Nummer Sicher - Eine Perle oder erbärmlicher als ein abgefuckter KinderCrackStricher
+description: Es wird mal wieder Krieg angedroht... Man kann sich nur noch wundern in Deutschland! Hm, welcher Krieg soll es denn sein?!
 image: /assets/media/splash/die-oster-schlammschlacht.jpg
 ---
 
