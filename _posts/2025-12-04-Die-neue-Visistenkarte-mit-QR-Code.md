@@ -24,10 +24,10 @@ Gut, es versteht nicht jeder römische Ziffern, aber das wird noch werden und no
 
 Ich sage nur: ***Stay tuned!***
 
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 ![Desktop View](/assets/media/posts/20251204/visitenkarten-rueckseite.jpg){: width="610" height="200" .w-50 .left}
 Hier ist der offensichtliche Hinweis, dass man nicht jedesmal meine dreckige Unterwäsche - ja, die habe ich auch dabei - kontrollieren muss!
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 Es ist doch wohl vollkommen klar, dass man die Polizei unterstützt und eine Visitenkarte plus ein entsprechender Webauftritt kann da nur helfen!
 
 Was ich noch sagen wollte - ***bitte kommen Sie unauffällig mit!***
