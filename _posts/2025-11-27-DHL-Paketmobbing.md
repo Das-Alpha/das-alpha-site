@@ -88,14 +88,14 @@ Das tat ich natürlich und ich wurde weiter überrascht.
 
 Beachten Sie bitte, dass gewisse personalisierte Links unkenntlich gemacht wurden.
 
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 Ich folgte dem Link, erhielt einen Code von meiner Telefonnummer, die ich bei XIAOMI hinterlegt hatte und oha, ich konnte das Paket neu ausliefern lassen:
 
 ![Desktop View](/assets/media/posts/20251127/dhl-neue-anlieferung-filiale.jpg){: width="400" height="580" .w-50 .left}
 
 So weit, so gut, doch ich wurde dann nochmals ***"overruled"***. 
 
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 Meine Auslieferung an die Filiale wurde an die Packstation 102.
 
 Exakt, die ***Sendung liegt in der Packstation 102***, wie es im Prinzip ursprünglich geplant war und ohne das Zutun von XIAOMI, denn ursprünglich war die Packstation 102 geplant und danach die Filiale, doch daraus wurde mysteriöserweise die Packstation 102:
@@ -110,7 +110,7 @@ Es wurde einfach sehr viel Hintergrundarbeit geleistet und im nächsten Abschnit
 Ich kann aber schon so viel sagen, es ist einfach nur das, was wir als einen [Schildbürgerstreich](https://de.wikipedia.org/wiki/Schildb%C3%BCrger){:target="_blank"} bezeichnen.
 
 Ein normaler Mensch würde an sich vermutlich zweifeln, aber bei uns in Schwaben ist das total normal. Betrachten Sie es bitte aus dieser Warte, bei uns ist auch [Stuttgart 21](https://de.wikipedia.org/wiki/Stuttgart_21){:target="_blank"} im Jahre 2025 nur eine kleine Nebensächlichkeit.
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 
 ### Die Lösung II - die Mobbingursache
 
@@ -126,7 +126,7 @@ Offensichtlich wollte man, dass das Paket einfach wieder an XIAOMI zurückgeht u
 Alles daran war einfach nur skuril, auch die Telefongespräche und die Begründung hatte zu keinem Zeitpunkt standgehalten, aus diesem Grund erfolgte wohl die Nachlieferung auch an die Packstation, obwohl eine Filiale ausgewählt wurde.
 
 Alles daran ist einfach nur absurd - ich kann es einfach nur als eine mißglückte Machtdemonstration beschreiben, die schief ging, da Whatsapp einen technische und effiziente ***Lösung*** ermöglichte.
-![Desktop View](){: .w-100 .normal}
+![Desktop View](/assets/img/addons/spacer.png){: .w-100 .normal}
 
 ## Fazit
 
