@@ -16,6 +16,4 @@ group :jekyll_plugins do
   gem "jemoji"
 end
 
-gem "github-pages", group: :jekyll_plugins
-
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
