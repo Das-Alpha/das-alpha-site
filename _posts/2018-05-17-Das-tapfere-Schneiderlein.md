@@ -20,3 +20,5 @@ Manche Tage fangen gut an, besonders dieser! Ich will nichts beschönigen, es gi
 Es geht schon wieder los. Das ist mittlerweise so krass, was Android native beherrscht...
 
 Es wird immer besser, ich muss das Repo neu auflegen, weil das so nice ist!
+
+Update!
