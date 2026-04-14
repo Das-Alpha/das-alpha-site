@@ -196,6 +196,9 @@ defaults:
       layout: page
       permalink: /:title/
 
+plugins:
+  - jemoji
+
 sass:
   style: compressed
 
