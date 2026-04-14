@@ -17,3 +17,4 @@ Manche Tage fangen gut an, besonders dieser! Ich will nichts beschönigen, es gi
 
 Ähm ja, doch in Tallinn steppt der Bär und der Spaß war schon vorgebucht! Es ging halt nur nicht so ganz wie geplant ab.
 
+Es geht schon wieder los. Das ist mittlerweise so krass, was Android native beherrscht...
