@@ -188,7 +188,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false 
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -196,9 +196,6 @@ defaults:
       layout: page
       permalink: /:title/
 
-plugins:
-  - jemoji
-  
 sass:
   style: compressed
 

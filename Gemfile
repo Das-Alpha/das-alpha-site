@@ -2,7 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "nokogiri", force_ruby_platform: true
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
@@ -13,5 +12,3 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
-gem "jemoji", "~> 0.13.0"
