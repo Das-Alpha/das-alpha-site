@@ -1,11 +1,10 @@
 ---
-title: So wird einem das rechtliche Gehör in Deutschland verwehrt
-date: 2025-11-05 10:00:00
-order: 2
+title: Rechtliches Gehör - Nicht für Dich!
+date: 2026-04-14 10:00:00
 categories: [(Un)Recht]
 tags: [Justiz, Unrechtsstaat]
 pin: false
-description: Man hat Recht und bekommt kein Recht - diesmal auf die harte Tour, indem kein Anwalt ein Mandat übernimmt...
+description: So wird einem das Recht in Deutschland verweigert - kein Anwalt übernimmt das Mandat...
 image: /assets/media/splash/die-oster-schlammschlacht.jpg
 ---
 
