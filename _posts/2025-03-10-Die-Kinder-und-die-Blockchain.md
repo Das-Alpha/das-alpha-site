@@ -45,6 +45,4 @@ Die erfolgreiche Hurenbockjagd hat übrigens ihren eigenen Eintrag (auf einer an
 
 ### Das glorreiche Finale - die Blockchain
 
-Und was wäre eine erfolgreiche Hurenbockjagd ohne eine dauerhafte Eintragung - die Vaterschaft soll schließlich dauerhaft dokumentiert werden - im Internet und zwar in der Blockchain, so ist sichergestellt, dass man nur, wenn man über 50% der "Miner" von sich überzeugen kann, eine Veränderung in Form eines Forks erreichen kann. Das ist natürlich eher theoretischer Natur - der Fork. Gut, man kann natürlich den Fork versuchen, nur er ist dann ebenfalls dokumentiert und diese Peinlichkeit wird sich wohl niemand - zudem damit noch massive Kosten einhergehen - antun. Sollte dies dennoch der Fall sein, müssten wir über den nächsten Punkt nachdenken: **"Mein Kind ist ein Fork - was nun"** :grinning_squinting_face: .
-
-😝
+Und was wäre eine erfolgreiche Hurenbockjagd ohne eine dauerhafte Eintragung - die Vaterschaft soll schließlich dauerhaft dokumentiert werden - im Internet und zwar in der Blockchain, so ist sichergestellt, dass man nur, wenn man über 50% der "Miner" von sich überzeugen kann, eine Veränderung in Form eines Forks erreichen kann. Das ist natürlich eher theoretischer Natur - der Fork. Gut, man kann natürlich den Fork versuchen, nur er ist dann ebenfalls dokumentiert und diese Peinlichkeit wird sich wohl niemand - zudem damit noch massive Kosten einhergehen - antun. Sollte dies dennoch der Fall sein, müssten wir über den nächsten Punkt nachdenken: **"Mein Kind ist ein Fork - was nun"** 😝.
