@@ -1,5 +1,5 @@
 ------
-title: Rechtliches Gehör - Nicht für Dich!
+title: Breaking News - Uro Huso United hat Probleme
 date: 2026-04-14 10:00:00
 categories: [(Un)Recht]
 tags: [Justiz, Unrechtsstaat]
